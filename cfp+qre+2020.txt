@@ -1,10 +1,10 @@
 --= Call for Papers =--
 
-1st International Workshop on Quantum Resource Estimation (QRE 2019)
+2nd International Workshop on Quantum Resource Estimation (QRE 2020)
 
-June 22, 2019, Phoenix, AZ, USA
+May 30, 2020, Valencia, Spain
 
-co-located with International Symposium on Computer Architecture (ISCA) 2019
+co-located with International Symposium on Computer Architecture (ISCA) 2020
 
 https://www.quantumresource.org/
 
@@ -32,17 +32,17 @@ Research papers, tutorials, software and other demonstrations, and work-in-progr
 
 ===== Paper submission =====
 
-Initial submission for QRE2019 will consist of an extended abstract, limited to 2+epsilon-pages (including figures and references, please don't go nuts with the epsilon!). Contributions must be written in English and report on original, unpublished work, not submitted for publication elsewhere.
+Initial submission for QRE2020 will consist of an extended abstract, limited to 2+epsilon-pages (including figures and references, please don't go nuts with the epsilon!). Contributions must be written in English and report on original, unpublished work, not submitted for publication elsewhere.
 
-Upon acceptance, researchers are invited to submit full research papers (maximum 12 pages), as well as work-in-progress or tool demonstration papers (maximum 6 pages). Accepted full papers will be published in a journal (subject to the journal being approved - IEEE Transactions on Quantum Engineering; otherwise a backup journal TBD exists).
+Upon acceptance, researchers are invited to submit full research papers (maximum 12 pages), as well as work-in-progress or tool demonstration papers (maximum 6 pages). Accepted full papers will be (depending on the results of another round of review) published in IEEE Transactions on Quantum Engineering.
 
-https://easychair.org/conferences/?conf=qre2019
+https://easychair.org/conferences/?conf=qre2020
 
 ===== Important Dates =====
 
-Extended Abstract Submission: 21 April 2019
-Notification Extended Abstract: 12 May 2019
-Workshop Date: 22 June 2019
-Full Paper Submission: 1 August 2019
-Notification of Full Paper: (tentative) 1 November 2019
+Extended Abstract Submission: 15 March 2020
+Notification Extended Abstract: 1 May 2020
+Workshop Date: 30 May 2020
+Full Paper Submission: 1 August 2020
+Notification of Full Paper: (tentative) 1 November 2020
 Publication of Full Paper: (tentative) 1 January 2020
