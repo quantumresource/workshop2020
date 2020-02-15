@@ -1,14 +1,11 @@
---= Call for Papers =--
-
 2nd International Workshop on Quantum Resource Estimation (QRE 2020)
+https://www.quantumresource.org/
 
 May 30, 2020, Valencia, Spain
 
 co-located with International Symposium on Computer Architecture (ISCA) 2020
 
-https://www.quantumresource.org/
-
-=======================================================================
+==================--= Call for Papers =--==========================
 
 Quantum computation has a growing number of promising application areas such as quantum chemistry, quantum optimisation and finance. However, the first industrially relevant and scalable quantum computer seems to be at least a decade away. Therefore, one of the most pressing questions is "How many physical qubits and how much time is necessary to execute a quantum algorithm on a selected hardware platform where the algorithmic output is more important than the fact a quantum computer was used to calculate it?"
 
